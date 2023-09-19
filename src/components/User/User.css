@@ -1,8 +1,12 @@
 .user-container{
    margin: 10px;
-   border: 2px solid red;
+   border: 5px solid rgb(255, 72, 0);
    padding: 20px;  
-   background-color: aqua;
+   background-color: yellow;
    border-radius: 30px;
    box-shadow: 5px 5px 10px;
+}
+.btn{
+    background-color: red;
+    color: white;
 }
