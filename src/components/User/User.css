@@ -1,0 +1,8 @@
+.user-container{
+   margin: 10px;
+   border: 2px solid red;
+   padding: 20px;  
+   background-color: aqua;
+   border-radius: 30px;
+   box-shadow: 5px 5px 10px;
+}
